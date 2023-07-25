@@ -1,2 +1,2 @@
 # burpbyangel
-burp for high.
+burp for linux.
