@@ -1,13 +1,21 @@
 #!/bin/bash
 
 echo "
-                #####    #     #    #####    #     #   #     # 
-               #     #   ##    #   #     #   #     #   ##    # 
-               #         # #   #   #         #     #   # #   # 
-                #####    #  #  #   #  ####   #  #  #   #  #  # 
-                     #   #   # #   #     #   #  #  #   #   # # 
-               #     #   #    ##   #     #   #  #  #   #    ## 
-                #####    #     #    #####     ## ##    #     # 
+   AA       NN      NN      GGGG       EEEEEEE    LL
+ AA  AA     NN NN   NN     GG   GG     EE         LL
+AA    AA    NN  NN  NN    GG           EE         LL
+AAAAAAAA    NN   NN NN    GG    GGGG   EEEEEEE    LL
+AA    AA    NN      NN     GG   GG     EE         LL
+AA    AA    NN      NN      GGGG       EEEEEEE    LLLLLL
+
+ SSSSSS    IIII   NN      NN    GGGGGG     HH   HH 
+SS          II    NN NN   NN   GG          HH   HH 
+ SSSSSS     II    NN  NN  NN   GG  GGGG    HHHHHHH 
+      SS    II    NN   NN NN   GG    GG    HH   HH 
+SSSSSS     IIII   NN      NN     GGGGG     HH   HH 
+
+
+
 "
 
 if [[ $EUID -eq 0 ]]; then
