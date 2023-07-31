@@ -1,18 +1,18 @@
 # Name is Important
 echo "
 
-   AA       NN      NN     GGGGG     EEEEEEE    LL
- AA  AA     NN NN   NN    GG    GG   EE         LL
-AA    AA    NN  NN  NN   GG          EE         LL
-AAAAAAAA    NN   NN NN   GG   GGGG   EEEEEEE    LL
-AA    AA    NN      NN    GG    GG   EE         LL
-AA    AA    NN      NN     GGGGG     EEEEEEE    LLLLLL
+   AA      NN      NN     GGGGG     EEEEEEE  LL
+ AA  AA    NN NN   NN    GG    GG   EE       LL
+AA    AA   NN  NN  NN   GG          EE       LL
+AAAAAAAA   NN   NN NN   GG   GGGG   EEEEEEE  LL
+AA    AA   NN      NN    GG    GG   EE       LL
+AA    AA   NN      NN     GGGGG     EEEEEEE  LLLLLL
 
- SSSSSS    IIII   NN      NN    GGGGGG     HH   HH 
-SS          II    NN NN   NN   GG          HH   HH 
- SSSSSS     II    NN  NN  NN   GG  GGGG    HHHHHHH 
-      SS    II    NN   NN NN   GG    GG    HH   HH 
-SSSSSSS    IIII   NN      NN     GGGGG     HH   HH 
+SSSSSS   IIII   NN      NN    GGGGGG     HH   HH 
+SS        II    NN NN   NN   GG          HH   HH 
+SSSSSS    II    NN  NN  NN   GG  GGGG    HHHHHHH 
+     SS   II    NN   NN NN   GG    GG    HH   HH 
+SSSSSS   IIII   NN      NN     GGGGG     HH   HH 
 
 "
 
@@ -89,7 +89,7 @@ echo "`n`nStarting Burp Suite Professional"
 java --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED -javaagent:"loader.jar" -noverify -jar "Burp-Suite-Pro.jar"
 
 
-# Lets Download the latest Burp Suite Professional jar File
+# Lets Download the latest Burp Suite Professional jar File Provided to you by Angel
 echo "`n`t`t 1. Please download latest Burp Suite Professional Jar file from :-:"
 echo "`n`t`t https://portswigger.net/burp/releases/startdownload?product=pro&version=&type=Jar"
 echo "`n`t`t 2. Replace the existing Burp-Suite-Pro.jar file with downloaded jar file. `n`t Keep previous file name"
