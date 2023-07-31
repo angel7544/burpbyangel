@@ -33,12 +33,11 @@
 -----------------------------------------------------------------------------------------------------------------
 # Videos For further Reference 	
 	--> Installing Burp Suite Professional in Kali Linux for Free
-[![Installing Burp Suite Professional in Kali Linux for Free](https://img.youtube.com/vi/N0KQrk77BBo/0.jpg)](https://www.youtube.com/watch?v=N0KQrk77BBo)
+[![Installing Burp Suite Professional in Kali Linux for Free](https://img.youtube.com/vi/N0KQrk77BBo/0.jpg)](https://www.youtube.com/live/UEeHS95Dg4k?feature=share)
 
 	
 	--> Installing Burp Suite Professional in Windows for Free
-[![Installing Burp Suite Professional in Windows for Free](https://img.youtube.com/vi/j1AKdSYL6wE/0.jpg)](https://www.youtube.com/watch?v=j1AKdSYL6wE)
-
+[![Installing Burp Suite Professional in Windows for Free]
 
 	--> Introduction to Burp Suite Professionaal
 [![Introduction to Burp Suite Professional -- Beginner to Intermediate](https://img.youtube.com/vi/L5euJM2Hxrg/0.jpg)](https://www.youtube.com/watch?v=L5euJM2Hxrg)
